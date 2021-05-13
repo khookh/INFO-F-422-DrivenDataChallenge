@@ -53,7 +53,7 @@
 51956,"functional"
 44099,"functional"
 59,"non functional"
-51359,NA
+51359,"non functional"
 15962,"non functional"
 17853,"functional needs repair"
 42040,"non functional"
@@ -104,11 +104,11 @@
 63155,"non functional"
 67247,"functional"
 23387,"functional"
-17873,NA
+17873,"functional"
 18197,"non functional"
 24834,"functional"
 4091,"functional"
-33261,NA
+33261,"functional"
 44384,"functional"
 62096,"non functional"
 64554,"functional"
@@ -166,7 +166,7 @@
 63400,"functional"
 50028,"non functional"
 67897,"non functional"
-21425,NA
+21425,"functional"
 71756,"functional"
 16862,"functional"
 15420,"non functional"
@@ -215,7 +215,7 @@
 6799,"functional"
 21402,"functional"
 35390,"functional"
-12636,NA
+12636,"non functional"
 36887,"functional"
 20086,"non functional"
 5634,"functional"
@@ -300,7 +300,7 @@
 72170,"functional"
 61999,"non functional"
 70354,"non functional"
-6877,NA
+6877,"non functional"
 47323,"non functional"
 48624,"non functional"
 6148,"functional"
@@ -342,7 +342,7 @@
 23505,"functional"
 48424,"functional"
 11150,"functional"
-70368,NA
+70368,"functional"
 26935,"non functional"
 5919,"non functional"
 2134,"functional"
@@ -428,7 +428,7 @@
 18554,"functional"
 27712,"functional"
 46935,"non functional"
-57804,NA
+57804,"functional"
 57711,"functional"
 5516,"non functional"
 8305,"functional"
@@ -449,7 +449,7 @@
 62227,"non functional"
 3730,"functional"
 2451,"functional"
-46418,NA
+46418,"non functional"
 45996,"non functional"
 60911,"non functional"
 46089,"functional"
@@ -552,12 +552,12 @@
 31169,"functional"
 38382,"functional"
 31205,"functional"
-23528,NA
+23528,"functional"
 26507,"non functional"
 67091,"non functional"
 47734,"functional"
 927,"functional"
-48521,NA
+48521,"functional"
 16963,"functional"
 48233,"functional"
 58989,"non functional"
@@ -954,7 +954,7 @@
 52744,"functional"
 23484,"non functional"
 13139,"functional"
-55439,NA
+55439,"non functional"
 41539,"functional"
 47692,"non functional"
 60165,"functional"
@@ -963,7 +963,7 @@
 13516,"functional"
 47720,"functional"
 22588,"non functional"
-28580,NA
+28580,"non functional"
 9075,"functional"
 25066,"non functional"
 28284,"functional"
@@ -981,7 +981,7 @@
 27513,"functional"
 36889,"functional"
 663,"non functional"
-10646,NA
+10646,"non functional"
 35103,"functional"
 50804,"functional"
 29635,"functional"
@@ -1002,7 +1002,7 @@
 15498,"functional"
 20446,"functional"
 5886,"non functional"
-52883,NA
+52883,"non functional"
 30892,"functional"
 37432,"non functional"
 42574,"functional"
@@ -1131,11 +1131,11 @@
 42685,"functional"
 29334,"functional"
 17320,"functional"
-7060,NA
+7060,"non functional"
 3905,"non functional"
 14607,"functional"
 59091,"functional"
-44927,NA
+44927,"non functional"
 59415,"functional"
 59722,"functional"
 49411,"non functional"
@@ -1429,7 +1429,7 @@
 57755,"non functional"
 22384,"functional"
 3380,"functional"
-41843,NA
+41843,"functional"
 35208,"functional"
 37152,"non functional"
 47925,"non functional"
@@ -1475,7 +1475,7 @@
 54346,"non functional"
 12284,"functional"
 18056,"functional"
-9415,NA
+9415,"functional"
 10574,"functional"
 67761,"non functional"
 2413,"functional"
@@ -1647,7 +1647,7 @@
 38329,"functional"
 69029,"non functional"
 25515,"non functional"
-30870,NA
+30870,"non functional"
 34228,"functional"
 42698,"functional"
 31674,"functional"
@@ -1734,7 +1734,7 @@
 50482,"functional"
 36023,"non functional"
 42509,"non functional"
-42398,NA
+42398,"functional"
 56132,"functional"
 37018,"functional"
 33205,"functional"
@@ -1888,7 +1888,7 @@
 10484,"non functional"
 33521,"non functional"
 56320,"functional"
-33643,NA
+33643,"non functional"
 22899,"functional"
 63343,"non functional"
 29869,"functional"
@@ -2104,13 +2104,13 @@
 74152,"functional"
 60368,"functional"
 16858,"functional"
-37670,NA
+37670,"non functional"
 35354,"functional"
 7892,"functional"
 47875,"functional"
 6277,"non functional"
 1223,"non functional"
-17318,NA
+17318,"non functional"
 9651,"functional"
 889,"functional"
 4613,"functional"
@@ -2162,7 +2162,7 @@
 10117,"functional"
 10647,"non functional"
 42722,"non functional"
-45067,NA
+45067,"non functional"
 60680,"non functional"
 54669,"non functional"
 7919,"functional needs repair"
@@ -2273,7 +2273,7 @@
 32119,"non functional"
 20299,"functional needs repair"
 55818,"non functional"
-74137,NA
+74137,"non functional"
 46159,"functional"
 59203,"non functional"
 20171,"functional"
@@ -2316,7 +2316,7 @@
 31560,"non functional"
 61696,"functional"
 56022,"non functional"
-48422,NA
+48422,"non functional"
 18651,"functional needs repair"
 23414,"functional"
 23653,"functional"
@@ -2324,7 +2324,7 @@
 26311,"functional"
 70408,"non functional"
 42630,"functional"
-64456,NA
+64456,"functional"
 66412,"non functional"
 39856,"functional"
 54522,"functional"
@@ -2378,7 +2378,7 @@
 9905,"non functional"
 27743,"functional"
 35256,"functional"
-35537,NA
+35537,"functional"
 25120,"functional"
 43468,"functional"
 53035,"functional"
@@ -2571,7 +2571,7 @@
 31987,"functional"
 6987,"functional"
 54099,"non functional"
-7852,NA
+7852,"functional"
 68627,"functional"
 45474,"functional"
 66915,"functional"
@@ -2687,7 +2687,7 @@
 17202,"functional"
 15186,"functional"
 38292,"functional"
-52651,NA
+52651,"functional"
 17781,"functional"
 36073,"non functional"
 5447,"non functional"
@@ -2783,7 +2783,7 @@
 22979,"functional"
 27114,"functional"
 64644,"functional"
-23670,NA
+23670,"non functional"
 15355,"functional"
 50882,"functional"
 44790,"functional"
@@ -2908,7 +2908,7 @@
 36900,"functional"
 28817,"functional"
 29579,"functional"
-66052,NA
+66052,"non functional"
 67084,"functional"
 27055,"functional"
 43822,"functional"
@@ -2943,7 +2943,7 @@
 44202,"functional"
 15004,"non functional"
 1832,"functional"
-66485,NA
+66485,"functional"
 17447,"functional"
 26268,"non functional"
 6030,"functional"
@@ -2982,7 +2982,7 @@
 66767,"functional"
 30832,"functional"
 36463,"functional"
-12076,NA
+12076,"non functional"
 31574,"functional"
 12471,"functional"
 25171,"functional"
@@ -2990,7 +2990,7 @@
 51475,"functional"
 70680,"functional"
 14230,"functional"
-62315,NA
+62315,"functional"
 48802,"non functional"
 37452,"functional"
 29076,"non functional"
@@ -3066,7 +3066,7 @@
 1714,"non functional"
 27708,"functional"
 41753,"non functional"
-65273,NA
+65273,"non functional"
 13488,"functional"
 55654,"non functional"
 2939,"non functional"
@@ -3122,7 +3122,7 @@
 56329,"non functional"
 90,"functional"
 37085,"functional"
-64035,NA
+64035,"non functional"
 46817,"functional"
 44622,"functional needs repair"
 66165,"functional"
@@ -3211,7 +3211,7 @@
 63739,"functional"
 36413,"functional"
 27992,"non functional"
-45650,NA
+45650,"non functional"
 63193,"functional"
 69151,"functional"
 26650,"functional"
@@ -3314,7 +3314,7 @@
 13562,"functional"
 8778,"non functional"
 37983,"functional"
-71991,NA
+71991,"functional"
 52554,"functional"
 7974,"non functional"
 26466,"functional needs repair"
@@ -3376,7 +3376,7 @@
 41292,"functional"
 11648,"functional"
 58421,"functional"
-24709,NA
+24709,"functional"
 43869,"non functional"
 5527,"functional"
 45462,"functional"
@@ -3445,7 +3445,7 @@
 7713,"non functional"
 72843,"non functional"
 58683,"non functional"
-66555,NA
+66555,"non functional"
 51012,"non functional"
 26955,"functional"
 51886,"functional needs repair"
@@ -3458,7 +3458,7 @@
 52440,"non functional"
 26426,"functional"
 73153,"functional"
-51205,NA
+51205,"non functional"
 30033,"non functional"
 28124,"non functional"
 38541,"non functional"
@@ -3504,7 +3504,7 @@
 7233,"non functional"
 25166,"non functional"
 26892,"functional"
-57374,NA
+57374,"non functional"
 14044,"functional"
 45100,"functional"
 63407,"non functional"
@@ -3538,7 +3538,7 @@
 6542,"non functional"
 15262,"functional"
 4943,"non functional"
-9111,NA
+9111,"non functional"
 50030,"functional"
 6944,"non functional"
 61772,"functional"
@@ -3685,7 +3685,7 @@
 4737,"functional"
 47808,"non functional"
 992,"functional"
-55002,NA
+55002,"functional"
 32467,"functional"
 42660,"non functional"
 68458,"functional"
@@ -3813,7 +3813,7 @@
 13378,"functional"
 60813,"non functional"
 24517,"functional"
-67270,NA
+67270,"functional"
 35400,"non functional"
 13712,"non functional"
 53254,"functional"
@@ -3997,7 +3997,7 @@
 36604,"functional"
 12107,"functional"
 24493,"functional"
-16531,NA
+16531,"non functional"
 15285,"functional"
 20368,"non functional"
 7701,"functional"
@@ -4045,7 +4045,7 @@
 53852,"non functional"
 49737,"functional"
 57612,"functional"
-14716,NA
+14716,"non functional"
 25789,"non functional"
 22947,"non functional"
 42080,"functional"
@@ -4182,7 +4182,7 @@
 7783,"non functional"
 55098,"functional"
 43479,"functional"
-53743,NA
+53743,"non functional"
 23114,"functional"
 56530,"non functional"
 16656,"functional"
@@ -4210,7 +4210,7 @@
 52695,"non functional"
 24915,"functional"
 62297,"functional"
-37005,NA
+37005,"non functional"
 22349,"non functional"
 47685,"non functional"
 61162,"functional"
@@ -4252,7 +4252,7 @@
 36115,"non functional"
 5024,"non functional"
 26401,"functional"
-50503,NA
+50503,"non functional"
 37724,"functional"
 62604,"non functional"
 60534,"functional"
@@ -4296,7 +4296,7 @@
 60252,"functional"
 44621,"non functional"
 7735,"non functional"
-71771,NA
+71771,"non functional"
 54855,"functional"
 53293,"functional"
 20396,"functional"
@@ -4354,7 +4354,7 @@
 22124,"functional"
 29314,"functional"
 48488,"non functional"
-45616,NA
+45616,"non functional"
 61676,"functional"
 70593,"functional"
 44518,"non functional"
@@ -4406,7 +4406,7 @@
 33786,"non functional"
 66677,"functional"
 48550,"functional"
-23063,NA
+23063,"functional"
 27690,"non functional"
 48021,"functional"
 44126,"non functional"
@@ -4431,7 +4431,7 @@
 54232,"non functional"
 37376,"functional"
 24479,"functional"
-28364,NA
+28364,"functional"
 26169,"functional"
 6752,"functional"
 50594,"functional"
@@ -4471,7 +4471,7 @@
 3362,"non functional"
 51273,"functional"
 2769,"functional"
-31711,NA
+31711,"functional"
 31865,"functional"
 30803,"functional"
 8755,"non functional"
@@ -4606,7 +4606,7 @@
 16288,"functional"
 22892,"functional"
 53395,"functional"
-71225,NA
+71225,"non functional"
 66085,"non functional"
 7992,"functional"
 26488,"non functional"
@@ -4719,7 +4719,7 @@
 25169,"non functional"
 72723,"functional"
 10136,"non functional"
-59605,NA
+59605,"functional"
 56356,"non functional"
 53971,"functional"
 68077,"non functional"
@@ -4810,7 +4810,7 @@
 7551,"non functional"
 19322,"functional"
 499,"functional"
-33431,NA
+33431,"non functional"
 6906,"functional"
 68701,"functional"
 4871,"functional"
@@ -4825,11 +4825,11 @@
 42490,"functional"
 30664,"functional"
 14394,"non functional"
-4509,NA
+4509,"non functional"
 26561,"non functional"
 9565,"functional"
 66460,"functional"
-29764,NA
+29764,"non functional"
 6138,"functional"
 54470,"non functional"
 10548,"non functional"
@@ -5024,7 +5024,7 @@
 22292,"functional"
 71416,"non functional"
 3190,"functional"
-52905,NA
+52905,"functional"
 27084,"functional"
 18937,"non functional"
 52417,"functional"
@@ -5208,7 +5208,7 @@
 8787,"non functional"
 4066,"functional"
 70433,"non functional"
-32868,NA
+32868,"functional"
 11624,"functional"
 15056,"non functional"
 22780,"functional"
@@ -5222,7 +5222,7 @@
 10722,"functional"
 41787,"functional"
 45190,"functional"
-9604,NA
+9604,"non functional"
 47715,"functional"
 38934,"non functional"
 6444,"non functional"
@@ -5273,7 +5273,7 @@
 2557,"functional"
 5290,"non functional"
 38997,"functional"
-47392,NA
+47392,"non functional"
 44115,"functional"
 9614,"non functional"
 47370,"functional"
@@ -5285,7 +5285,7 @@
 13550,"functional"
 56950,"non functional"
 19300,"functional"
-13319,NA
+13319,"non functional"
 72985,"functional"
 67104,"functional"
 28893,"non functional"
@@ -5322,7 +5322,7 @@
 39962,"non functional"
 71858,"functional"
 60606,"functional"
-30365,NA
+30365,"functional"
 73121,"non functional"
 54644,"functional"
 26638,"functional"
@@ -5354,7 +5354,7 @@
 52174,"non functional"
 7291,"functional"
 73044,"functional"
-14159,NA
+14159,"functional"
 19526,"functional"
 11163,"non functional"
 41706,"functional"
@@ -5394,7 +5394,7 @@
 66826,"functional"
 44407,"non functional"
 28047,"functional"
-50342,NA
+50342,"functional"
 55775,"functional"
 6789,"functional"
 6473,"functional"
@@ -5578,7 +5578,7 @@
 30523,"non functional"
 72810,"functional"
 18799,"non functional"
-67318,NA
+67318,"functional"
 11056,"functional"
 37231,"functional"
 39073,"non functional"
@@ -5998,7 +5998,7 @@
 58575,"functional"
 69077,"functional"
 32105,"functional"
-46471,NA
+46471,"non functional"
 54695,"non functional"
 31802,"functional"
 71458,"functional"
@@ -6024,7 +6024,7 @@
 39337,"non functional"
 3217,"non functional"
 26509,"non functional"
-58943,NA
+58943,"non functional"
 19539,"non functional"
 64076,"functional"
 64488,"functional"
@@ -6098,7 +6098,7 @@
 14474,"functional needs repair"
 67458,"functional needs repair"
 21103,"non functional"
-26165,NA
+26165,"non functional"
 65119,"functional"
 12626,"functional"
 69907,"non functional"
@@ -6115,7 +6115,7 @@
 46547,"functional"
 56060,"non functional"
 34888,"functional"
-50961,NA
+50961,"non functional"
 39203,"non functional"
 68095,"functional"
 17316,"functional"
@@ -6198,7 +6198,7 @@
 13159,"functional"
 29978,"functional"
 1164,"functional"
-24537,NA
+24537,"functional"
 47659,"non functional"
 37457,"functional needs repair"
 37243,"functional"
@@ -6269,13 +6269,13 @@
 58734,"functional"
 56598,"functional"
 70415,"functional"
-1687,NA
+1687,"non functional"
 52090,"functional"
 25281,"non functional"
 11034,"functional"
-20183,NA
+20183,"non functional"
 51797,"non functional"
-56191,NA
+56191,"non functional"
 25048,"functional"
 9013,"functional"
 57074,"functional"
@@ -6349,8 +6349,8 @@
 42212,"functional"
 36770,"functional"
 60473,"non functional"
-20372,NA
-5632,NA
+20372,"functional"
+5632,"non functional"
 61488,"non functional"
 60593,"non functional"
 19378,"functional"
@@ -6459,7 +6459,7 @@
 7812,"functional"
 44340,"functional"
 22221,"functional"
-13826,NA
+13826,"functional"
 56656,"non functional"
 65388,"non functional"
 37402,"functional"
@@ -6486,10 +6486,10 @@
 24195,"non functional"
 37174,"functional"
 52171,"functional"
-38391,NA
+38391,"non functional"
 63122,"functional"
 41063,"functional"
-53165,NA
+53165,"non functional"
 360,"non functional"
 59527,"non functional"
 43274,"functional needs repair"
@@ -6514,12 +6514,12 @@
 54473,"non functional"
 33472,"non functional"
 60519,"functional"
-30144,NA
+30144,"non functional"
 60541,"functional"
 37982,"functional"
 43851,"non functional"
 3537,"non functional"
-21294,NA
+21294,"functional"
 29616,"non functional"
 56884,"functional"
 16193,"functional"
@@ -6533,7 +6533,7 @@
 3158,"functional"
 11946,"non functional"
 15293,"functional"
-5044,NA
+5044,"non functional"
 62119,"functional"
 7323,"functional"
 11400,"non functional"
@@ -6603,7 +6603,7 @@
 1538,"functional"
 55340,"functional"
 34058,"non functional"
-8037,NA
+8037,"functional"
 44777,"non functional"
 17812,"functional"
 60735,"functional"
@@ -6614,7 +6614,7 @@
 44337,"functional"
 14601,"functional"
 46005,"functional"
-71705,NA
+71705,"functional"
 17013,"functional"
 59368,"functional"
 49364,"functional"
@@ -6655,7 +6655,7 @@
 19514,"functional"
 52940,"functional"
 59528,"functional needs repair"
-52617,NA
+52617,"non functional"
 4213,"non functional"
 57592,"functional"
 44387,"non functional"
@@ -6714,7 +6714,7 @@
 39350,"functional"
 65624,"functional"
 24712,"functional"
-18244,NA
+18244,"non functional"
 36651,"functional"
 61122,"functional"
 68722,"functional"
@@ -6750,7 +6750,7 @@
 5686,"functional"
 65577,"functional"
 9557,"functional"
-8235,NA
+8235,"functional"
 70184,"non functional"
 65334,"non functional"
 26422,"functional"
@@ -6852,7 +6852,7 @@
 70705,"functional"
 21628,"functional needs repair"
 10378,"functional"
-56626,NA
+56626,"non functional"
 61840,"non functional"
 26069,"non functional"
 3908,"non functional"
@@ -7006,7 +7006,7 @@
 33808,"functional"
 39013,"non functional"
 2190,"non functional"
-68867,NA
+68867,"functional"
 70725,"functional"
 66858,"functional"
 55226,"functional"
@@ -7116,7 +7116,7 @@
 13707,"functional"
 48742,"functional"
 10004,"non functional"
-43570,NA
+43570,"functional"
 64844,"functional"
 30482,"functional needs repair"
 54847,"functional"
@@ -7218,7 +7218,7 @@
 51901,"non functional"
 43635,"non functional"
 49977,"functional"
-26436,NA
+26436,"non functional"
 39764,"functional"
 59511,"functional"
 67376,"non functional"
@@ -7381,7 +7381,7 @@
 47949,"non functional"
 23075,"non functional"
 54591,"functional"
-4415,NA
+4415,"non functional"
 18438,"non functional"
 47227,"functional needs repair"
 32803,"functional"
@@ -7451,7 +7451,7 @@
 48164,"functional"
 45217,"functional"
 56244,"functional"
-66945,NA
+66945,"non functional"
 20655,"functional"
 7924,"functional"
 19171,"non functional"
@@ -7511,7 +7511,7 @@
 30237,"non functional"
 41182,"functional needs repair"
 10502,"functional"
-50223,NA
+50223,"functional"
 10319,"non functional"
 21019,"non functional"
 34756,"functional"
@@ -7561,7 +7561,7 @@
 69680,"functional"
 32334,"non functional"
 49944,"functional"
-37219,NA
+37219,"functional needs repair"
 34876,"non functional"
 6160,"functional"
 14998,"functional"
@@ -7703,9 +7703,9 @@
 51305,"non functional"
 71832,"functional"
 24812,"non functional"
-57060,NA
+57060,"non functional"
 3193,"functional"
-20040,NA
+20040,"non functional"
 682,"non functional"
 47417,"functional"
 9536,"functional"
@@ -7734,7 +7734,7 @@
 33365,"functional"
 2512,"functional"
 3792,"non functional"
-41158,NA
+41158,"non functional"
 49470,"non functional"
 45060,"functional"
 61264,"non functional"
@@ -8052,7 +8052,7 @@
 29236,"non functional"
 8314,"non functional"
 38335,"non functional"
-42494,NA
+42494,"functional"
 25358,"functional"
 52693,"functional"
 66427,"functional"
@@ -8112,7 +8112,7 @@
 36899,"functional"
 27797,"functional"
 48131,"functional"
-70738,NA
+70738,"non functional"
 56821,"functional needs repair"
 35203,"non functional"
 67513,"non functional"
@@ -8178,7 +8178,7 @@
 61140,"functional"
 6375,"functional"
 57413,"non functional"
-52719,NA
+52719,"functional"
 45534,"functional"
 57626,"non functional"
 1523,"non functional"
@@ -8265,7 +8265,7 @@
 66084,"non functional"
 72376,"non functional"
 63494,"functional"
-5560,NA
+5560,"non functional"
 53309,"non functional"
 17248,"functional"
 38848,"functional"
@@ -8438,7 +8438,7 @@
 33031,"functional"
 50322,"non functional"
 38362,"functional"
-48934,NA
+48934,"non functional"
 50098,"functional"
 25161,"non functional"
 69627,"functional"
@@ -8474,7 +8474,7 @@
 45224,"functional"
 21863,"functional"
 13646,"functional"
-45316,NA
+45316,"functional"
 39015,"non functional"
 62036,"functional"
 19035,"functional"
@@ -8649,7 +8649,7 @@
 32535,"functional"
 41758,"functional"
 66899,"functional"
-24670,NA
+24670,"non functional"
 31459,"functional"
 66195,"functional"
 54881,"functional needs repair"
@@ -8716,7 +8716,7 @@
 16607,"functional"
 34727,"non functional"
 65469,"non functional"
-44913,NA
+44913,"non functional"
 50367,"non functional"
 50806,"functional"
 40770,"functional"
@@ -8767,7 +8767,7 @@
 41294,"non functional"
 29623,"functional"
 73956,"non functional"
-69743,NA
+69743,"non functional"
 54200,"non functional"
 24857,"non functional"
 46305,"functional needs repair"
@@ -8836,7 +8836,7 @@
 39758,"functional"
 15287,"functional"
 14628,"functional"
-12434,NA
+12434,"functional"
 39114,"non functional"
 26802,"functional"
 17956,"functional"
@@ -8927,7 +8927,7 @@
 17198,"functional"
 57604,"non functional"
 15591,"functional"
-35030,NA
+35030,"non functional"
 1602,"functional"
 44175,"functional"
 34772,"functional"
@@ -8971,7 +8971,7 @@
 26585,"non functional"
 41862,"functional"
 37361,"functional needs repair"
-41897,NA
+41897,"non functional"
 42244,"functional"
 55338,"non functional"
 3315,"non functional"
@@ -9047,7 +9047,7 @@
 74099,"functional"
 14041,"functional"
 43989,"functional needs repair"
-28795,NA
+28795,"functional"
 50777,"functional"
 3325,"functional"
 42215,"non functional"
@@ -9106,7 +9106,7 @@
 46723,"non functional"
 62578,"functional"
 55412,"non functional"
-73903,NA
+73903,"non functional"
 52049,"non functional"
 5862,"functional"
 15371,"functional"
@@ -9223,7 +9223,7 @@
 1003,"functional"
 68752,"functional"
 63430,"functional needs repair"
-50781,NA
+50781,"non functional"
 73116,"functional"
 55839,"non functional"
 36337,"functional"
@@ -9325,7 +9325,7 @@
 14842,"functional"
 67294,"non functional"
 61106,"non functional"
-61693,NA
+61693,"functional"
 18196,"functional"
 27990,"functional"
 17475,"functional"
@@ -9414,7 +9414,7 @@
 50180,"functional"
 57915,"non functional"
 50236,"non functional"
-38455,NA
+38455,"non functional"
 27152,"non functional"
 37521,"functional"
 8563,"non functional"
@@ -9547,7 +9547,7 @@
 71695,"functional"
 2884,"functional"
 39952,"functional"
-50042,NA
+50042,"non functional"
 36274,"non functional"
 41219,"functional"
 55158,"non functional"
@@ -9561,7 +9561,7 @@
 65379,"non functional"
 60409,"functional"
 51144,"non functional"
-58047,NA
+58047,"non functional"
 65689,"functional"
 53232,"functional"
 29670,"functional"
@@ -9872,7 +9872,7 @@
 29671,"non functional"
 35023,"functional"
 68900,"functional"
-43469,NA
+43469,"non functional"
 9278,"functional needs repair"
 9113,"non functional"
 47859,"functional"
@@ -9902,7 +9902,7 @@
 27532,"functional"
 36215,"functional"
 48476,"functional"
-69878,NA
+69878,"non functional"
 26155,"functional"
 68065,"functional"
 25411,"non functional"
@@ -9977,7 +9977,7 @@
 62208,"functional"
 17787,"functional"
 58743,"non functional"
-13056,NA
+13056,"non functional"
 36750,"functional"
 24659,"functional"
 59879,"non functional"
@@ -10009,7 +10009,7 @@
 4803,"non functional"
 62978,"non functional"
 19269,"functional"
-26903,NA
+26903,"functional"
 30234,"non functional"
 41519,"functional"
 73264,"functional"
@@ -10046,13 +10046,13 @@
 47207,"functional"
 16559,"functional"
 33868,"functional"
-11422,NA
+11422,"non functional"
 56888,"functional"
 3108,"functional"
 48828,"functional"
 34023,"functional"
 44658,"functional"
-52593,NA
+52593,"functional"
 3040,"non functional"
 6829,"functional"
 4673,"functional"
@@ -10092,7 +10092,7 @@
 73229,"functional"
 23876,"non functional"
 9282,"functional"
-10705,NA
+10705,"non functional"
 39080,"non functional"
 60222,"functional"
 7205,"functional"
@@ -10118,7 +10118,7 @@
 42108,"non functional"
 1483,"non functional"
 47026,"functional"
-16356,NA
+16356,"non functional"
 57245,"functional"
 4953,"functional"
 70577,"functional"
@@ -10184,7 +10184,7 @@
 19421,"functional"
 6806,"functional"
 19429,"functional"
-44568,NA
+44568,"non functional"
 17311,"non functional"
 7827,"functional"
 67221,"functional"
@@ -10284,7 +10284,7 @@
 14900,"functional"
 11977,"functional"
 15008,"non functional"
-28628,NA
+28628,"non functional"
 36240,"functional"
 15945,"functional needs repair"
 38705,"non functional"
@@ -10345,7 +10345,7 @@
 50308,"non functional"
 62020,"functional"
 29268,"functional"
-74184,NA
+74184,"non functional"
 67687,"functional"
 42816,"functional"
 547,"functional"
@@ -10361,7 +10361,7 @@
 67630,"functional"
 30611,"functional"
 28075,"non functional"
-35852,NA
+35852,"non functional"
 63586,"non functional"
 62562,"non functional"
 7228,"functional"
@@ -10402,7 +10402,7 @@
 65305,"non functional"
 5098,"functional"
 47491,"functional"
-48637,NA
+48637,"non functional"
 45632,"functional"
 52421,"functional needs repair"
 39864,"functional"
@@ -10410,8 +10410,8 @@
 52187,"functional"
 68150,"functional"
 26021,"non functional"
-40994,NA
-72334,NA
+40994,"functional"
+72334,"functional"
 41898,"functional"
 13086,"functional"
 15817,"functional"
@@ -10446,7 +10446,7 @@
 62968,"functional"
 61977,"non functional"
 50335,"functional"
-56890,NA
+56890,"functional"
 58685,"functional"
 63351,"non functional"
 22616,"functional needs repair"
@@ -10499,7 +10499,7 @@
 44792,"functional"
 11353,"functional"
 49867,"non functional"
-47636,NA
+47636,"non functional"
 65130,"functional"
 66362,"non functional"
 54916,"non functional"
@@ -10652,7 +10652,7 @@
 50489,"functional"
 22746,"functional"
 19079,"non functional"
-33114,NA
+33114,"non functional"
 3463,"functional"
 61924,"non functional"
 38167,"functional"
@@ -10677,7 +10677,7 @@
 27294,"functional"
 33250,"functional"
 36057,"functional"
-10031,NA
+10031,"non functional"
 2151,"functional"
 552,"functional"
 61887,"functional"
@@ -10729,7 +10729,7 @@
 40626,"non functional"
 71906,"non functional"
 27998,"non functional"
-47988,NA
+47988,"non functional"
 32027,"functional"
 51245,"functional"
 38203,"functional"
@@ -10783,7 +10783,7 @@
 72498,"non functional"
 8864,"functional"
 34537,"non functional"
-59266,NA
+59266,"non functional"
 8796,"functional"
 27254,"functional"
 12933,"functional"
@@ -10798,11 +10798,11 @@
 69035,"functional"
 12080,"non functional"
 10963,"functional"
-45499,NA
+45499,"non functional"
 53809,"functional"
 5382,"functional"
 27556,"functional"
-73572,NA
+73572,"non functional"
 9125,"non functional"
 1049,"non functional"
 52787,"non functional"
@@ -10821,7 +10821,7 @@
 60839,"functional"
 55835,"functional"
 67421,"functional"
-34155,NA
+34155,"functional"
 28227,"functional"
 42874,"non functional"
 18052,"non functional"
@@ -10951,7 +10951,7 @@
 3000,"functional"
 30153,"functional"
 40291,"non functional"
-53063,NA
+53063,"non functional"
 20855,"functional"
 42569,"functional"
 7422,"functional"
@@ -11070,7 +11070,7 @@
 47955,"functional"
 5281,"functional"
 70268,"functional"
-68550,NA
+68550,"non functional"
 67128,"functional"
 23921,"functional"
 66795,"functional"
@@ -11233,15 +11233,15 @@
 5526,"functional"
 69400,"non functional"
 10539,"functional"
-70066,NA
+70066,"functional"
 44767,"non functional"
 27875,"functional"
 32267,"functional"
-62482,NA
+62482,"non functional"
 64827,"functional"
 62456,"non functional"
 18979,"non functional"
-45976,NA
+45976,"non functional"
 60055,"functional"
 61337,"non functional"
 2758,"non functional"
@@ -11379,7 +11379,7 @@
 67416,"functional"
 25263,"non functional"
 11286,"functional"
-19787,NA
+19787,"functional"
 3917,"functional"
 57951,"functional"
 39343,"non functional"
@@ -11392,7 +11392,7 @@
 16587,"functional"
 25949,"non functional"
 39372,"functional"
-19089,NA
+19089,"functional"
 67665,"functional"
 57982,"functional"
 24130,"non functional"
@@ -11411,7 +11411,7 @@
 24975,"non functional"
 63414,"functional"
 45031,"functional"
-25010,NA
+25010,"functional"
 7967,"non functional"
 73755,"functional"
 9827,"functional"
@@ -11539,7 +11539,7 @@
 21886,"functional"
 28989,"non functional"
 70127,"non functional"
-53062,NA
+53062,"non functional"
 30891,"functional"
 41918,"non functional"
 29538,"functional"
@@ -11718,14 +11718,14 @@
 33182,"non functional"
 41748,"non functional"
 43826,"non functional"
-28717,NA
+28717,"non functional"
 23041,"non functional"
 10827,"functional"
 61253,"functional"
 57576,"functional"
 45878,"non functional"
 49563,"functional"
-19942,NA
+19942,"non functional"
 59439,"functional"
 29832,"functional"
 1506,"functional"
@@ -11748,7 +11748,7 @@
 18609,"functional"
 18061,"non functional"
 63915,"functional"
-55956,NA
+55956,"functional"
 19951,"functional"
 52334,"non functional"
 53044,"functional"
@@ -11898,7 +11898,7 @@
 53897,"functional"
 16125,"functional"
 1419,"non functional"
-30942,NA
+30942,"functional"
 66300,"non functional"
 5529,"non functional"
 72022,"functional"
@@ -12063,7 +12063,7 @@
 21058,"functional"
 43375,"functional"
 20698,"functional"
-23752,NA
+23752,"functional"
 69014,"functional"
 25154,"functional"
 21604,"functional"
@@ -12071,7 +12071,7 @@
 12686,"functional"
 891,"non functional"
 30835,"non functional"
-27885,NA
+27885,"functional"
 34836,"functional"
 37512,"functional"
 10075,"functional"
@@ -12129,7 +12129,7 @@
 16434,"non functional"
 58694,"non functional"
 62064,"functional"
-56502,NA
+56502,"non functional"
 37379,"functional"
 51880,"functional"
 47791,"functional"
@@ -12145,7 +12145,7 @@
 22290,"functional"
 71086,"functional"
 31742,"non functional"
-29307,NA
+29307,"non functional"
 26089,"functional"
 63673,"functional"
 22169,"functional"
@@ -12214,7 +12214,7 @@
 34917,"functional"
 54143,"functional"
 48165,"functional"
-61165,NA
+61165,"non functional"
 3511,"non functional"
 27673,"functional"
 46990,"functional"
@@ -12257,7 +12257,7 @@
 58928,"functional"
 15412,"non functional"
 58470,"non functional"
-14158,NA
+14158,"non functional"
 71685,"functional"
 34218,"non functional"
 20975,"functional"
@@ -12338,7 +12338,7 @@
 29690,"non functional"
 56624,"functional"
 28138,"functional"
-14055,NA
+14055,"non functional"
 45586,"non functional"
 8651,"non functional"
 6713,"functional"
@@ -12387,7 +12387,7 @@
 25271,"functional"
 34646,"functional"
 341,"functional"
-37897,NA
+37897,"non functional"
 64538,"non functional"
 34348,"functional"
 67426,"non functional"
@@ -12573,7 +12573,7 @@
 70048,"non functional"
 3022,"functional"
 16785,"functional"
-58915,NA
+58915,"non functional"
 73166,"functional"
 44005,"functional"
 60708,"functional"
@@ -12614,7 +12614,7 @@
 48142,"functional needs repair"
 51286,"functional"
 42336,"functional"
-31706,NA
+31706,"functional"
 3345,"functional"
 47932,"non functional"
 31478,"non functional"
@@ -12757,7 +12757,7 @@
 50004,"non functional"
 26180,"functional"
 25677,"functional"
-7806,NA
+7806,"non functional"
 42941,"functional"
 46795,"functional"
 21682,"non functional"
@@ -12835,7 +12835,7 @@
 15090,"non functional"
 62509,"functional needs repair"
 17001,"functional"
-16442,NA
+16442,"non functional"
 32264,"functional"
 25727,"functional"
 19946,"functional"
@@ -12963,7 +12963,7 @@
 40915,"functional"
 54884,"functional"
 4505,"functional"
-24316,NA
+24316,"non functional"
 2843,"functional"
 38403,"functional"
 53329,"functional"
@@ -13078,7 +13078,7 @@
 61987,"functional"
 40061,"non functional"
 18498,"non functional"
-41951,NA
+41951,"functional"
 15683,"non functional"
 44001,"functional"
 41636,"functional"
@@ -13297,7 +13297,7 @@
 52720,"functional"
 65107,"functional"
 55271,"functional"
-64854,NA
+64854,"functional"
 74232,"functional"
 16709,"non functional"
 11670,"functional"
@@ -13402,7 +13402,7 @@
 64292,"functional"
 52393,"functional needs repair"
 45883,"non functional"
-39995,NA
+39995,"functional"
 27159,"non functional"
 65782,"non functional"
 35599,"functional"
@@ -13422,7 +13422,7 @@
 6112,"functional"
 41087,"functional"
 35616,"functional"
-42458,NA
+42458,"functional"
 66491,"non functional"
 9902,"non functional"
 39501,"functional"
@@ -13449,7 +13449,7 @@
 52529,"functional"
 16179,"functional"
 51492,"functional"
-16490,NA
+16490,"non functional"
 12533,"non functional"
 20630,"functional needs repair"
 21096,"functional"
@@ -13868,7 +13868,7 @@
 70214,"functional"
 61042,"non functional"
 11747,"functional"
-72704,NA
+72704,"functional"
 19528,"non functional"
 25812,"non functional"
 9042,"functional"
@@ -14039,7 +14039,7 @@
 57837,"functional"
 24658,"functional"
 12018,"non functional"
-67575,NA
+67575,"non functional"
 51143,"functional"
 45461,"functional"
 21405,"non functional"
@@ -14345,7 +14345,7 @@
 47789,"non functional"
 16907,"non functional"
 18471,"non functional"
-51608,NA
+51608,"non functional"
 46387,"functional"
 34495,"functional"
 25024,"functional"
@@ -14379,7 +14379,7 @@
 13367,"functional"
 56128,"non functional"
 13364,"functional"
-37281,NA
+37281,"non functional"
 38955,"functional"
 44964,"non functional"
 7063,"functional"
@@ -14505,7 +14505,7 @@
 18620,"non functional"
 16766,"non functional"
 20062,"non functional"
-6046,NA
+6046,"functional"
 47640,"functional"
 65625,"functional"
 60404,"functional"
@@ -14517,7 +14517,7 @@
 26222,"functional"
 3105,"non functional"
 33332,"functional"
-31381,NA
+31381,"functional"
 62291,"non functional"
 59256,"functional"
 1878,"functional"
@@ -14597,7 +14597,7 @@
 51927,"non functional"
 20645,"functional needs repair"
 15216,"functional"
-29019,NA
+29019,"functional"
 37375,"non functional"
 41382,"functional"
 20971,"functional"
@@ -14728,7 +14728,7 @@
 27416,"functional"
 35992,"functional"
 42825,"non functional"
-12363,NA
+12363,"non functional"
 41971,"functional"
 44737,"non functional"
 69191,"functional"
@@ -14783,7 +14783,7 @@
 57153,"non functional"
 61040,"non functional"
 36768,"non functional"
-68255,NA
+68255,"non functional"
 21152,"non functional"
 32023,"functional"
 26494,"non functional"
