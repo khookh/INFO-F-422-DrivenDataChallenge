@@ -3,3 +3,6 @@
 ## Authors : Parent Paul, Couchard Darius, Donne Stefano 
 
 Projet's summary video : https://www.youtube.com/watch?v=dwZMRK_Z5RA
+
+## The Folder *Notebook* contains .ipynb files for each section of the project
+## The Folder *Data* contains the initial data set, the processed data set and the submission output.
